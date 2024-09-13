@@ -8,6 +8,7 @@
 - Introduce control flow statements: if, elif, else
 - Compare Python's control flow statements to JavaScript's
 - Write and execute simple Python programs using functions, control flow, and the print() function
+- **Learn how to use f-strings for formatting output in Python**
 
 ## Topics Covered
 
@@ -55,8 +56,18 @@
 - Executing code cells and viewing outputs
 - Using Markdown cells for notes and documentation
 
+### f-Strings in Python
+
+- Introduction to f-strings
+  - Syntax: `f"string {variable}"`
+  - Embedding expressions inside strings
+  - Formatting numbers and dates
+  - Comparison with other string formatting methods
+
 ## Additional Resources
 
 - [Python Official Documentation](https://docs.python.org/3/)
 - [Jupyter Notebook Documentation](https://jupyter-notebook.readthedocs.io/en/stable/)
-- [Python for JavaScript Developers - Real Python](https://realpython.com/python-for-javascript-developers/)
+- [Illustrated Guide to Python 3 - Matt Harrison](https://www.krishnagudi.com/wp-content/uploads/2023/05/Illustrated-Guide-to-Python-3-Matt-Harrison.pdf)
+- [Python Cheat Sheet - QuickRef](https://quickref.me/python.html)
+- [Python f-Strings - Real Python](https://realpython.com/python-f-strings/)

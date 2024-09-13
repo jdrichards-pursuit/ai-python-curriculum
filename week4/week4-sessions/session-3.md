@@ -68,4 +68,7 @@
 - [Python Lists - Official Documentation](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists)
 - [Python Tuples - Official Documentation](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)
 - [Python for Loops - Real Python](https://realpython.com/python-for-loop/)
+- [Python Lists - GeeksforGeeks](https://www.geeksforgeeks.org/python-lists/)
+- [Python Tuples - GeeksforGeeks](https://www.geeksforgeeks.org/python-tuples/)
+- [Python For Loops - GeeksforGeeks](https://www.geeksforgeeks.org/python-for-loops/)
 - [List Comprehensions in Python - Real Python](https://realpython.com/list-comprehension-python/)
