@@ -17,6 +17,12 @@
 - Installing Python and Jupyter Notebook
 - Introduction to the Jupyter Notebook interface
 
+### Using Jupyter Notebook
+
+- Creating and organizing notebooks
+- Executing code cells and viewing outputs
+- Using Markdown cells for notes and documentation
+
 ### Python Syntax Basics
 
 - Indentation vs. Curly Braces
@@ -49,12 +55,6 @@
 - Best Practices
   - Writing clear and readable conditional statements
   - The role of indentation in Python
-
-### Using Jupyter Notebook
-
-- Creating and organizing notebooks
-- Executing code cells and viewing outputs
-- Using Markdown cells for notes and documentation
 
 ### f-Strings in Python
 
