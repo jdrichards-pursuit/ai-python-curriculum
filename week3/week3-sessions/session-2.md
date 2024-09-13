@@ -67,5 +67,6 @@
 ## Additional Resources
 
 - [Python Data Types - Official Documentation](https://docs.python.org/3/library/stdtypes.html)
+- [Python Strings - GeeksforGeeks](https://www.geeksforgeeks.org/python-string/)
 - [Python String Methods - W3Schools](https://www.w3schools.com/python/python_ref_string.asp)
 - [JavaScript to Python Syntax Comparison - Python Wiki](https://wiki.python.org/moin/JavascriptPython)
